@@ -1,4 +1,4 @@
-/* P4.c */
+/* P5.c */
 /* Anna Karolinna */
 /* 11811EBI009 */
 
